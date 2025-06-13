@@ -1,4 +1,3 @@
-'''mermaid
 flowchart TD
     A[Customer] -->|QR Scan| B(Jhattse POS)
     A -->|Walk-In| B
@@ -38,4 +37,4 @@ flowchart TD
     
     T --> W[Menu Optimization]
     U --> X[Incentive Calculation]
-    V --> Y[Personalized Marketing]'''
+    V --> Y[Personalized Marketing]
